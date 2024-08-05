@@ -1,0 +1,22 @@
+﻿#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+th, td {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+#tableLabel {
+    padding-bottom: 1em;
+}
+
+#inputBox input {
+    max-width: 20em;
+    float: none;
+    margin: 0 auto;
+    margin-bottom: 2em;
+}
